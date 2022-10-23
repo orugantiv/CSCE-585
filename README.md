@@ -1,4 +1,4 @@
-# CSCE-585
+# ML-Transformer-Emotion-Models
 
 > Note: Model/EmotionModels.ipynb contains all trained models and data <br />
 > Note: Data/EmotionData_1 contains all data <br />
